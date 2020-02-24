@@ -7,6 +7,15 @@
 ![Last Commit](https://img.shields.io/github/last-commit/thatlastpringle/eternity-client?style=for-the-badge)
 
 # What does the client about?
-``- PVP
-- Trolling``
+- PVP
+- Trolling
 
+# How to install
+To install simply download the .js file and run it using blocklauncher.
+
+# Developers
+- Dividq
+- thatlastpringle
+
+# Latest update
+- Toggle fixes.
