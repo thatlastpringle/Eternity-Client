@@ -1,4 +1,4 @@
-# Sabertooth Injector!
+# Eternity Client!
 
 
 [![Download the client](https://img.shields.io/badge/download-client-brightgreen?style=for-the-badge "Download the client")](https://download_link "Download the injector")
